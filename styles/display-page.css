@@ -1,3 +1,6 @@
+
+
+
 main{
 	font-size: 0px;
 }
@@ -40,6 +43,7 @@ main{
 
 .blackbox{
 	background-color: black;
+	/*border: 1px solid;*/
 }
 
 .yellowbox{
@@ -48,4 +52,5 @@ main{
 
 .centered{
 	text-align: center;
+	/*display: inline-block;*/
 }
